@@ -1,4 +1,4 @@
-#  extraction des éléments de l'article selon les consignes
+#  Extraction des éléments de l'article selon les consignes
   
 ## Article scientifique analysé : *Artificial Intelligence for Atmospheric Sciences – A Research Roadmap*  
  Publication : 19 juin 2025  
