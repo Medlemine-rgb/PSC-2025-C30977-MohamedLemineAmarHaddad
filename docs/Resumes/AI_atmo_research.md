@@ -57,6 +57,5 @@ Les auteurs mettent l’accent sur les bénéfices de l’interdisciplinarité e
 
 Cet article démontre clairement que l’intelligence artificielle est appelée à devenir **centrale dans les sciences du climat**. Elle permet non seulement de traiter plus vite des volumes de données gigantesques, mais aussi de révéler des structures complexes, invisibles aux modèles traditionnels.
 
-### Recommandation :
-➡ Un texte incontournable si vous vous intéressez à l’IA appliquée aux sciences naturelles.
+
 
