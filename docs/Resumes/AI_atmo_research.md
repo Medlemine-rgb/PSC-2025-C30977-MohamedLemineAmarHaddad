@@ -1,11 +1,11 @@
-# 📘 Résumé de l'article : *Artificial Intelligence for Atmospheric Sciences – A Research Roadmap*
+# Résumé de l'article : *Artificial Intelligence for Atmospheric Sciences – A Research Roadmap*
 **Source** : arXiv.org  
 **Date de publication** : 19 juin 2025  
 **Lien** : [https://arxiv.org/abs/2506.16281](https://arxiv.org/abs/2506.16281)
 
 ---
 
-## 🧭 1. Introduction
+## 1. Introduction
 
 Cet article propose une **feuille de route stratégique** pour intégrer l'intelligence artificielle (IA) dans les sciences atmosphériques. Face à l’explosion des données (satellites, capteurs IoT, modèles climatiques), l’IA offre des solutions prometteuses pour améliorer la **prévision météorologique**, la **détection d’événements extrêmes** et la **modélisation climatique**.
 
@@ -13,7 +13,7 @@ Les auteurs mettent l’accent sur les bénéfices de l’interdisciplinarité e
 
 ---
 
-## 🧩 2. Structure de l'article
+## 2. Structure de l'article
 
 ### 2.1 Contexte scientifique
 - L'IA est déjà utilisée dans plusieurs domaines (finance, vision, biologie).
@@ -40,23 +40,23 @@ Les auteurs mettent l’accent sur les bénéfices de l’interdisciplinarité e
 
 ---
 
-## 🧠 3. Réflexion personnelle
+## 3. Réflexion personnelle
 
-### ✅ Ce que je maîtrise déjà :
+### Ce que je maîtrise déjà :
 - Concepts d’apprentissage supervisé, régression, et réseaux de neurones.
 - Utilisation de Python avec NumPy, pandas, matplotlib.
 
-### 📌 Ce que je dois approfondir :
+###  Ce que je dois approfondir :
 - Notions avancées en **apprentissage par transfert** et **modèles physiques guidés**.
 - Interprétabilité des modèles (SHAP, LIME).
 - Entraînement sur données massives et traitement distribué (cluster, HPC).
 
 ---
 
-## 🧾 4. Conclusion
+##  4. Conclusion
 
 Cet article démontre clairement que l’intelligence artificielle est appelée à devenir **centrale dans les sciences du climat**. Elle permet non seulement de traiter plus vite des volumes de données gigantesques, mais aussi de révéler des structures complexes, invisibles aux modèles traditionnels.
 
-### 🔖 Recommandation :
-➡️ Un texte incontournable si vous vous intéressez à l’IA appliquée aux sciences naturelles.
+### Recommandation :
+➡ Un texte incontournable si vous vous intéressez à l’IA appliquée aux sciences naturelles.
 
