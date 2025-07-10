@@ -1,4 +1,5 @@
-#  Travail Maison – Groupe 2  
+#  extraction des éléments de l'article selon les consignes
+  
 ## Article scientifique analysé : *Artificial Intelligence for Atmospheric Sciences – A Research Roadmap*  
  Publication : 19 juin 2025  
  Lien : [https://arxiv.org/abs/2506.16281](https://arxiv.org/abs/2506.16281)
